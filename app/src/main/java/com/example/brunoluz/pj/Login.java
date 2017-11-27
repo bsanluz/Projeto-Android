@@ -37,7 +37,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         if(v == cadastro){
-            Intent intent = new Intent(Login.this, Cadastro.class);
+            Intent intent = new  Intent(Login.this, Cadastro.class);
             startActivity(intent);
             finish();
         }
