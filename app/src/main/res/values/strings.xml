@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PJ</string>
+    <string name="title_activity_closet">Closet</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

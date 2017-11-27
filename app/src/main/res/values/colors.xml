@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#336699</color>
+    <color name="colorPrimaryDark">#044D96</color>
+    <color name="colorAccent">#336699</color>
+    <color name="bordaGrid">#87AED4</color>
+    <color name="corauxiliar1">#495D96</color>
+    <color name="coraxuliar2">#406E96</color>
+    <color name="cormeioverde">#1C7096</color>
+    <color name="bordaGrid2">#5f87aed4</color>
+    <color name="colorAccent1">#4488CC</color>
+</resources>
